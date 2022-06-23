@@ -42,9 +42,9 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.ConverterBox.Image = global::BaseDrop.Properties.Resources.ConvertDrop;
-            this.ConverterBox.Location = new System.Drawing.Point(12, 70);
+            this.ConverterBox.Location = new System.Drawing.Point(44, 88);
             this.ConverterBox.Name = "ConverterBox";
-            this.ConverterBox.Size = new System.Drawing.Size(551, 278);
+            this.ConverterBox.Size = new System.Drawing.Size(492, 243);
             this.ConverterBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.ConverterBox.TabIndex = 2;
             this.ConverterBox.TabStop = false;
